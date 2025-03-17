@@ -1,0 +1,74 @@
+body{
+    background : rgba(72,163,0,0.07);
+    font-family: 'Poppins', sans-serif ;
+}
+
+.Heading{
+    font-size : 64px ;
+    color : #48A300;
+    text-align: center;
+}
+
+.Heading span{
+    color : #61481C;
+}
+
+main{
+    margin: 20px;
+}
+
+.main-container{
+    /* box-sizing:border-box; */
+    background : #FBFBFB ;
+    max-width: 660px;
+    /* height:810px; */
+    margin-inline: auto;
+    border-radius:10px;
+    padding:30px 48px;
+    box-shadow: 0 0 8px 0px rgba(0,0,0,0.1);
+}
+
+.subtitle{
+    font-size:32px;
+}
+
+.subtitle-image{
+    vertical-align: middle;
+    margin-left: 10px;
+}
+
+.Progress-label{
+    font-size:14px;
+    color: #858585;
+}
+
+.Progress-Bar{
+    height:30px;
+    background: #48A3001A;
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-bottom:30px;
+}
+
+.Progress-Status{
+    height:100%;
+    background: #48A300;
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-bottom:30px;
+    width: 33%;
+    font-size: 10px;
+    font-weight:500;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+}
+
+@media (max-width:768px){
+    .Heading{
+        font-size:32px;
+    }
+    .Progress-Bar{
+        height:12px;
+    }
+}
