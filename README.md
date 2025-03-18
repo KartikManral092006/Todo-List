@@ -1,4 +1,4 @@
-# 🏆 Goal Tracker – Smart, Interactive & Motivational Goal-Tracking App
+# 🏆 Goal Tracker – Smart, Interactive & Goal-Tracking Site
 #### The Goal Tracker is a dynamic, user-friendly web application designed to help you set, track, and complete your goals efficiently. With a seamless blend of JavaScript for interactivity and CSS for a visually appealing design, this app ensures an engaging experience while keeping you motivated with real-time progress tracking and uplifting quotes. 🚀
 
 # 🔥 Key Features & Functionality
